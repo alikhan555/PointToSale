@@ -1,0 +1,11 @@
+C:\Users\Abdul Mujeeb\documents\visual studio 2015\Projects\point to sale\point to sale\bin\x86\Debug\point to sale.exe.config
+C:\Users\Abdul Mujeeb\documents\visual studio 2015\Projects\point to sale\point to sale\bin\x86\Debug\point to sale.exe
+C:\Users\Abdul Mujeeb\documents\visual studio 2015\Projects\point to sale\point to sale\bin\x86\Debug\point to sale.pdb
+C:\Users\Abdul Mujeeb\documents\visual studio 2015\Projects\point to sale\point to sale\obj\x86\Debug\point_to_sale.Admin.resources
+C:\Users\Abdul Mujeeb\documents\visual studio 2015\Projects\point to sale\point to sale\obj\x86\Debug\point_to_sale.Login.resources
+C:\Users\Abdul Mujeeb\documents\visual studio 2015\Projects\point to sale\point to sale\obj\x86\Debug\point_to_sale.Properties.Resources.resources
+C:\Users\Abdul Mujeeb\documents\visual studio 2015\Projects\point to sale\point to sale\obj\x86\Debug\point to sale.csproj.GenerateResource.Cache
+C:\Users\Abdul Mujeeb\documents\visual studio 2015\Projects\point to sale\point to sale\obj\x86\Debug\point to sale.exe
+C:\Users\Abdul Mujeeb\documents\visual studio 2015\Projects\point to sale\point to sale\obj\x86\Debug\point to sale.pdb
+C:\Users\Abdul Mujeeb\documents\visual studio 2015\Projects\point to sale\point to sale\obj\x86\Debug\point_to_sale.Admin_Dashboard.resources
+C:\Users\Abdul Mujeeb\documents\visual studio 2015\Projects\point to sale\point to sale\obj\x86\Debug\point to sale.csprojResolveAssemblyReference.cache

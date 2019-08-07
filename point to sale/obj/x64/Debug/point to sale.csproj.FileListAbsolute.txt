@@ -1,0 +1,57 @@
+C:\Users\Abdul Mujeeb\documents\visual studio 2015\Projects\point to sale\point to sale\bin\x64\Debug\point to sale.exe.config
+C:\Users\Abdul Mujeeb\documents\visual studio 2015\Projects\point to sale\point to sale\bin\x64\Debug\point to sale.exe
+C:\Users\Abdul Mujeeb\documents\visual studio 2015\Projects\point to sale\point to sale\bin\x64\Debug\point to sale.pdb
+C:\Users\Abdul Mujeeb\documents\visual studio 2015\Projects\point to sale\point to sale\obj\x64\Debug\point_to_sale.Login.resources
+C:\Users\Abdul Mujeeb\documents\visual studio 2015\Projects\point to sale\point to sale\obj\x64\Debug\point_to_sale.Properties.Resources.resources
+C:\Users\Abdul Mujeeb\documents\visual studio 2015\Projects\point to sale\point to sale\obj\x64\Debug\point to sale.csproj.GenerateResource.Cache
+C:\Users\Abdul Mujeeb\documents\visual studio 2015\Projects\point to sale\point to sale\obj\x64\Debug\point to sale.exe
+C:\Users\Abdul Mujeeb\documents\visual studio 2015\Projects\point to sale\point to sale\obj\x64\Debug\point to sale.pdb
+C:\Users\Abdul Mujeeb\documents\visual studio 2015\Projects\point to sale\point to sale\obj\x64\Debug\point to sale.csprojResolveAssemblyReference.cache
+C:\Users\Abdul Mujeeb\documents\visual studio 2015\Projects\point to sale\point to sale\obj\x64\Debug\point_to_sale.Admin.resources
+C:\Users\Abdul Mujeeb\documents\visual studio 2015\Projects\point to sale\point to sale\obj\x64\Debug\point_to_sale.Admin_Dashboard.resources
+C:\Users\Abdul Mujeeb\Downloads\pointtosale 27 may\project 27 may By Ali\point to sale\bin\x64\Debug\point to sale.exe.config
+C:\Users\Abdul Mujeeb\Downloads\pointtosale 27 may\project 27 may By Ali\point to sale\obj\x64\Debug\point to sale.exe
+C:\Users\Abdul Mujeeb\Downloads\pointtosale 27 may\project 27 may By Ali\point to sale\obj\x64\Debug\point to sale.pdb
+C:\Users\Abdul Mujeeb\Downloads\pointtosale 27 may\project 27 may By Ali\point to sale\bin\x64\Debug\point to sale.exe
+C:\Users\Abdul Mujeeb\Downloads\pointtosale 27 may\project 27 may By Ali\point to sale\bin\x64\Debug\point to sale.pdb
+C:\Users\Abdul Mujeeb\Downloads\pointtosale 27 may\project 27 may By Ali\point to sale\obj\x64\Debug\point to sale.csprojResolveAssemblyReference.cache
+C:\Users\Abdul Mujeeb\Downloads\pointtosale 27 may\project 27 may By Ali\point to sale\obj\x64\Debug\point_to_sale.AddNewEmployee.resources
+C:\Users\Abdul Mujeeb\Downloads\pointtosale 27 may\project 27 may By Ali\point to sale\obj\x64\Debug\point_to_sale.add_product.resources
+C:\Users\Abdul Mujeeb\Downloads\pointtosale 27 may\project 27 may By Ali\point to sale\obj\x64\Debug\point_to_sale.Admin_Dashboard.resources
+C:\Users\Abdul Mujeeb\Downloads\pointtosale 27 may\project 27 may By Ali\point to sale\obj\x64\Debug\point_to_sale.Admin.resources
+C:\Users\Abdul Mujeeb\Downloads\pointtosale 27 may\project 27 may By Ali\point to sale\obj\x64\Debug\point_to_sale.Delete_Product.resources
+C:\Users\Abdul Mujeeb\Downloads\pointtosale 27 may\project 27 may By Ali\point to sale\obj\x64\Debug\point_to_sale.EditEmployeDatacs.resources
+C:\Users\Abdul Mujeeb\Downloads\pointtosale 27 may\project 27 may By Ali\point to sale\obj\x64\Debug\point_to_sale.edit_product.resources
+C:\Users\Abdul Mujeeb\Downloads\pointtosale 27 may\project 27 may By Ali\point to sale\obj\x64\Debug\point_to_sale.employee.resources
+C:\Users\Abdul Mujeeb\Downloads\pointtosale 27 may\project 27 may By Ali\point to sale\obj\x64\Debug\point_to_sale.Properties.Resources.resources
+C:\Users\Abdul Mujeeb\Downloads\pointtosale 27 may\project 27 may By Ali\point to sale\obj\x64\Debug\point to sale.csproj.GenerateResource.Cache
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\bin\x64\Debug\point to sale.exe.config
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\obj\x64\Debug\point to sale.exe
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\obj\x64\Debug\point to sale.pdb
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\obj\x64\Debug\point to sale.csprojResolveAssemblyReference.cache
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\obj\x64\Debug\point_to_sale.AddNewEmployee.resources
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\obj\x64\Debug\point_to_sale.add_product.resources
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\obj\x64\Debug\point_to_sale.Admin_Dashboard.resources
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\obj\x64\Debug\point_to_sale.Admin.resources
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\obj\x64\Debug\point_to_sale.bkup_db.resources
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\obj\x64\Debug\point_to_sale.Category.resources
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\obj\x64\Debug\point_to_sale.Delete_Product.resources
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\obj\x64\Debug\point_to_sale.EditEmployeDatacs.resources
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\obj\x64\Debug\point_to_sale.edit_product.resources
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\obj\x64\Debug\point_to_sale.employee.resources
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\obj\x64\Debug\point_to_sale.Employee_Dashboard.resources
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\obj\x64\Debug\point_to_sale.Properties.Resources.resources
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\obj\x64\Debug\point to sale.csproj.GenerateResource.Cache
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\bin\x64\Debug\point to sale.exe
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\bin\x64\Debug\point to sale.pdb
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\bin\x64\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\bin\x64\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\bin\x64\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\bin\x64\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\bin\x64\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\bin\x64\Debug\Bunifu.Core.dll
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\bin\x64\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\bin\x64\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\bin\x64\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\bin\x64\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Abdul Mujeeb\Downloads\software 3 june by ali\point2sale 6 june\point to sale\bin\x64\Debug\Microsoft.SqlServer.RegSvrEnum.dll
